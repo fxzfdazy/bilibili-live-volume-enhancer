@@ -2,7 +2,7 @@
 // @name         B站直播间音量增强
 // @namespace    http://tampermonkey.net/
 // @version      1.6
-// @description  为B站直播间提供音量放大功能，各房间独立记忆音量，侧边悬浮隐藏面板。新增防爆音压缩器，另有隐藏播放器内的直播间ID水印功能。
+// @description  为B站直播间提供音量放大功能，各房间独立记忆音量。
 // @author       fxzfdazy
 // @match        *://live.bilibili.com/*
 // @icon         https://www.bilibili.com/favicon.ico
