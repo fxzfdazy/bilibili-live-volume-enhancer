@@ -11,10 +11,10 @@
 // @grant        GM_addStyle
 // @grant        GM_registerMenuCommand
 // @license      MIT
-// @homepageURL  https://github.com/xxx
-// @supportURL   https://github.com/xxx
-// @updateURL    https://raw.githubusercontent.com/xxx
-// @downloadURL  https://raw.githubusercontent.com/xxx
+// @homepageURL  https://github.com/fxzfdazy/bilibili-live-volume-enhancer
+// @supportURL   https://github.com/fxzfdazy/bilibili-live-volume-enhancer/issues
+// @updateURL    https://github.com/fxzfdazy/bilibili-live-volume-enhancer/raw/refs/heads/main/bili-live-volume-enhancer.user.js
+// @downloadURL  https://github.com/fxzfdazy/bilibili-live-volume-enhancer/raw/refs/heads/main/bili-live-volume-enhancer.user.js
 // ==/UserScript==
 
 (function() {
